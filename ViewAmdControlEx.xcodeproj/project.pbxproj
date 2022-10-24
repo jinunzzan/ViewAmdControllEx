@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		593BBD9F2906F8B9001C26CA /* ViewAmdControllEx.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewAmdControllEx.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		593BBD9F2906F8B9001C26CA /* ViewAmdControlEx.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ViewAmdControlEx.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		593BBDA22906F8B9001C26CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		593BBDA42906F8B9001C26CA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		593BBDA62906F8B9001C26CA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -48,7 +48,7 @@
 		593BBDA02906F8B9001C26CA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				593BBD9F2906F8B9001C26CA /* ViewAmdControllEx.app */,
+				593BBD9F2906F8B9001C26CA /* ViewAmdControlEx.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -70,9 +70,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		593BBD9E2906F8B8001C26CA /* ViewAmdControllEx */ = {
+		593BBD9E2906F8B8001C26CA /* ViewAmdControlEx */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 593BBDB32906F8BA001C26CA /* Build configuration list for PBXNativeTarget "ViewAmdControllEx" */;
+			buildConfigurationList = 593BBDB32906F8BA001C26CA /* Build configuration list for PBXNativeTarget "ViewAmdControlEx" */;
 			buildPhases = (
 				593BBD9B2906F8B8001C26CA /* Sources */,
 				593BBD9C2906F8B8001C26CA /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = ViewAmdControllEx;
+			name = ViewAmdControlEx;
 			productName = ViewAmdControllEx;
-			productReference = 593BBD9F2906F8B9001C26CA /* ViewAmdControllEx.app */;
+			productReference = 593BBD9F2906F8B9001C26CA /* ViewAmdControlEx.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 593BBD9A2906F8B8001C26CA /* Build configuration list for PBXProject "ViewAmdControllEx" */;
+			buildConfigurationList = 593BBD9A2906F8B8001C26CA /* Build configuration list for PBXProject "ViewAmdControlEx" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				593BBD9E2906F8B8001C26CA /* ViewAmdControllEx */,
+				593BBD9E2906F8B8001C26CA /* ViewAmdControlEx */,
 			);
 		};
 /* End PBXProject section */
@@ -339,7 +339,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		593BBD9A2906F8B8001C26CA /* Build configuration list for PBXProject "ViewAmdControllEx" */ = {
+		593BBD9A2906F8B8001C26CA /* Build configuration list for PBXProject "ViewAmdControlEx" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				593BBDB12906F8BA001C26CA /* Debug */,
@@ -348,7 +348,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		593BBDB32906F8BA001C26CA /* Build configuration list for PBXNativeTarget "ViewAmdControllEx" */ = {
+		593BBDB32906F8BA001C26CA /* Build configuration list for PBXNativeTarget "ViewAmdControlEx" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				593BBDB42906F8BA001C26CA /* Debug */,
